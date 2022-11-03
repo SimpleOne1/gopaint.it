@@ -1,0 +1,15 @@
+2022-10-21 8:55:25 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 7
+2022-10-21 8:55:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 10
+2022-10-21 8:55:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 10
+2022-10-21 8:55:25 - PHP Notice:  Undefined variable: mysql in D:\OpenServer\domains\gopaintit.pl\install\controller\install\step_3.php on line 280
+2022-10-21 8:55:25 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\OpenServer\domains\gopaintit.pl\install\controller\install\step_3.php on line 280
+2022-10-21 8:55:37 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'paintit_db' in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 7
+2022-10-21 8:55:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 10
+2022-10-21 8:55:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 10
+2022-10-21 8:55:37 - PHP Notice:  Undefined variable: mysql in D:\OpenServer\domains\gopaintit.pl\install\controller\install\step_3.php on line 280
+2022-10-21 8:55:37 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\OpenServer\domains\gopaintit.pl\install\controller\install\step_3.php on line 280
+2022-10-21 8:58:15 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 7
+2022-10-21 8:58:15 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 10
+2022-10-21 8:58:15 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\domains\gopaintit.pl\system\library\db\mysqli.php on line 10
+2022-10-21 8:58:15 - PHP Notice:  Undefined variable: mysql in D:\OpenServer\domains\gopaintit.pl\install\controller\install\step_3.php on line 280
+2022-10-21 8:58:15 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\OpenServer\domains\gopaintit.pl\install\controller\install\step_3.php on line 280
