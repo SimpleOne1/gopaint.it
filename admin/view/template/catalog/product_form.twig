@@ -371,7 +371,20 @@
                   <input type="text" name="sort_order" value="{{ sort_order }}" placeholder="{{ entry_sort_order }}" id="input-sort-order" class="form-control"/>
                 </div>
               </div>
-            </div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label" for="complexity-status">Complexity</label>
+                <div class="col-sm-10">
+                  <select name="complexity" id="complexity-status" class="form-control">
+                      <option value="{{ complexity }}" selected="selected">{{ complexity }}</option>
+                      <option value="1/5">1/5</option>
+                      <option value="2/5">2/5</option>
+                      <option value="3/5">3/5</option>
+                      <option value="4/5">4/5</option>
+                      <option value="5/5">5/5</option>
+                  </select>
+                </div>
+              </div>
+            <!--Above is all product data when creating, so we add there complexity tab for product -->
             <div class="tab-pane" id="tab-links">
               <div class="form-group">
                 <label class="col-sm-2 control-label" for="input-manufacturer"><span data-toggle="tooltip" title="{{ help_manufacturer }}">{{ entry_manufacturer }}</span></label>

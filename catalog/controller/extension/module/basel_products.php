@@ -160,10 +160,10 @@ class ControllerExtensionModuleBaselProducts extends Controller {
 					} else {
 						$rating = false;
 					}
-					
+					$complexity=$result['complexity'];
 					$products[] = array(
 						'product_id' => $result['product_id'],
-						'quantity'  => $result['quantity'],
+						'quantity'  =>  $result['quantity'],
 						'thumb'   	 => $image,
 						'thumb2' 	 => $this->model_tool_image->resize($image2, $setting['image_width'], $setting['image_height']),
 						'sale_end_date' => $date_end['date_end'] ?? '',
@@ -174,6 +174,7 @@ class ControllerExtensionModuleBaselProducts extends Controller {
 						'special' 	 => $special,
 						'tax'        => $tax,
 						'minimum'    => $result['minimum'] > 0 ? $result['minimum'] : 1,
+                        'complexity' => $complexity,
 						'rating'     => $rating,
 						'reviews'    => sprintf($this->language->get('text_reviews'), (int)$result['reviews']),
 						'href'    	 => $this->url->link('product/product', 'product_id=' . $result['product_id']),
