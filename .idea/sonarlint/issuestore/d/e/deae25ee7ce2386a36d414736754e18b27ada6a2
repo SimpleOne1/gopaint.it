@@ -1,0 +1,64 @@
+
+HWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(èÍı´ûÿÿÿÿ
+HWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(äÌÍûıÿÿÿÿ
+CWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(¸¾›
+CWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(…¯‡º
+GWeb:ImgWithoutAltCheck-"%Add an "alt" attribute to this image.(–ÿìš
+IWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(ø¹ºËùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(ÁÇ Ãüÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck›"Replace this <i> tag by <em>.(ßâ…ÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck¶"Replace this <i> tag by <em>.(‘˜‰Âıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÁ"Replace this <i> tag by <em>.(®Âê·
+NWeb:TableWithoutCaptionCheckÊ" Add a description to this table.(§ˆ»Ùüÿÿÿÿ
+@	Web:S5256Ê"%Add "<th>" headers to this "<table>".(§ˆ»Ùüÿÿÿÿ
+MWeb:ImgWithoutAltCheckÙ"%Add an "alt" attribute to this image.(‘×¬³şÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÜ"Replace this <i> tag by <em>.(”Ø±½
+DWeb:BoldAndItalicTagsCheckå"Replace this <i> tag by <em>.(ÁÖ¹
+DWeb:BoldAndItalicTagsCheckñ"Replace this <i> tag by <em>.(Ôîƒ‚
+IWeb:BoldAndItalicTagsCheck·"Replace this <i> tag by <em>.(ø¹ºËùÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÂ"Replace this <i> tag by <em>.(Ü’ğ
+DWeb:BoldAndItalicTagsCheckÍ"Replace this <i> tag by <em>.(Ü’ğ
+NWeb:TableWithoutCaptionCheckÔ" Add a description to this table.(¯‡Ş±øÿÿÿÿ
+@	Web:S5256Ô"%Add "<th>" headers to this "<table>".(¯‡Ş±øÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckó"Replace this <i> tag by <em>.(ä®
+DWeb:BoldAndItalicTagsCheckü"Replace this <i> tag by <em>.(ß¦îÑ
+NWeb:TableWithoutCaptionCheck˜" Add a description to this table.(·ê£ûÿÿÿÿ
+@	Web:S5256˜"%Add "<th>" headers to this "<table>".(·ê£ûÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckÏ"Replace this <i> tag by <em>.(í­Ö’ÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckØ"Replace this <i> tag by <em>.(—®¹Ñşÿÿÿÿ
+NWeb:TableWithoutCaptionCheckà" Add a description to this table.(à˜¾¹ùÿÿÿÿ
+@	Web:S5256à"%Add "<th>" headers to this "<table>".(à˜¾¹ùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck€"Replace this <i> tag by <em>.(ø¹ºËùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck†"Replace this <i> tag by <em>.(ø¹ºËùÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck‰"Replace this <i> tag by <em>.(Êƒß§
+IWeb:BoldAndItalicTagsCheck’"Replace this <i> tag by <em>.(¯Î–÷şÿÿÿÿ
+IWeb:TableWithoutCaptionCheckš" Add a description to this table.(™àâ°
+;	Web:S5256š"%Add "<th>" headers to this "<table>".(™àâ°
+IWeb:BoldAndItalicTagsCheckÄ"Replace this <i> tag by <em>.(ø¹ºËùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckÊ"Replace this <i> tag by <em>.(ø¹ºËùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckÍ"Replace this <i> tag by <em>.(’‡ÀŠşÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckÖ"Replace this <i> tag by <em>.(ˆ¡ˆÛıÿÿÿÿ
+NWeb:TableWithoutCaptionCheckŞ" Add a description to this table.(·ê£ûÿÿÿÿ
+@	Web:S5256Ş"%Add "<th>" headers to this "<table>".(·ê£ûÿÿÿÿ
+IWeb:TableWithoutCaptionCheckì" Add a description to this table.(šÒòÚ
+;	Web:S5256ì"%Add "<th>" headers to this "<table>".(šÒòÚ
+IWeb:BoldAndItalicTagsCheckû"Replace this <i> tag by <em>.(”ïšëıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck„"Replace this <i> tag by <em>.(ƒ…ÿª
+IWeb:TableWithoutCaptionCheck’" Add a description to this table.(éÇ¦”
+;	Web:S5256’"%Add "<th>" headers to this "<table>".(éÇ¦”
+DWeb:BoldAndItalicTagsCheck§"Replace this <i> tag by <em>.(ÄÄ­£
+IWeb:TableWithoutCaptionCheck©" Add a description to this table.(éÇ¦”
+;	Web:S5256©"%Add "<th>" headers to this "<table>".(éÇ¦”
+HWeb:ImgWithoutAltCheckµ"%Add an "alt" attribute to this image.(ÒÍµ©
+IWeb:TableWithoutCaptionCheckÄ" Add a description to this table.(éÇ¦”
+;	Web:S5256Ä"%Add "<th>" headers to this "<table>".(éÇ¦”
+OWeb:AvoidCommentedOutCodeCheckù"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck‰
+"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckº
+"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckÊ"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckğ"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheckŒ"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck¨"Remove this commented out code.(òçÿŒÿÿÿÿÿ
+OWeb:AvoidCommentedOutCodeCheck¸"Remove this commented out code.(òçÿŒÿÿÿÿÿ

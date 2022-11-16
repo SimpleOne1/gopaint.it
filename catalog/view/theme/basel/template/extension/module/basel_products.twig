@@ -31,7 +31,6 @@
     <div class="grid-holder grid{{ columns }} prod_module{{ module }}{% if carousel %} carousel{% endif %}{% if carousel_a and rows > 1 %} sticky-arrows{% endif %}">
         {% for product in tab.products %}
             <div class="item single-product">
-                <div>{{ product.complexity }}</div>
             <div class="image"{% if columns == 'list' %} style="width:{{ img_width }}px,"{% endif %} style="background-image:{{ product.thumb }}">
                 <a href="{{ product.href }}">
                 <img src="{{ product.thumb }}" alt="{{ product.name }}" title="{{ product.name }}" />
@@ -62,9 +61,36 @@
             </div> <!-- .icons-wrapper -->
             </div><!-- .image ends -->
             <div class="caption">
-            <a class="product-name" href="{{ product.href }}">{{ product.name }}</a>
-                <img src="http://gopaintit.pl/image/catalog/s4.png" style="width: 150px;">
-            {% if product.rating %}      
+            <a class="product-name" href="{{ product.href }}">{{ product.name }}</a><br>
+{#                <div>{{ product.complexity }}</div>#}
+            {% if product.complexity%}
+                {% if product.complexity == '1/5' %}
+                    <div style="text-align: center;margin-bottom: 5px;">
+                        <img style="width: 150px;" src="http://gopaintit.pl/image/catalog/c1.png">
+                    </div>
+                    {% endif %}
+                {% if product.complexity == '2/5' %}
+                    <div style="text-align: center;margin-bottom: 5px;">
+                        <img style="width: 150px;" src="http://gopaintit.pl/image/catalog/c2.png">
+                    </div>
+                {% endif %}
+                {% if product.complexity == '3/5' %}
+                    <div style="text-align: center;margin-bottom: 5px;">
+                        <img style="width: 150px;" src="http://gopaintit.pl/image/catalog/c3.png">
+                    </div>
+                {% endif %}
+                {% if product.complexity == '4/5' %}
+                    <div style="text-align: center;margin-bottom: 5px;">
+                        <img style="width: 150px;" src="http://gopaintit.pl/image/catalog/c4.png">
+                    </div>
+                {% endif %}
+                {% if product.complexity == '5/5' %}
+                    <div style="text-align: center;margin-bottom: 5px;">
+                        <img style="width: 150px;" src="http://gopaintit.pl/image/catalog/c5.png">
+                    </div>
+                {% endif %}
+                {% endif %}
+            {% if product.rating %}
                 <div class="rating">
                 <span class="rating_stars rating r{{ product.rating }}">
                 <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>

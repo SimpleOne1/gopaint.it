@@ -1,0 +1,35 @@
+
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(Îò±ì
+j	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(»Ñù¼
+o	php:S3776î"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(¶½çûÿÿÿÿ
+o	php:S1192K"UDefine a constant instead of duplicating this literal "&filter_member_type=" 7 times.(Òï˜ªüÿÿÿÿ
+f	php:S1192u"LDefine a constant instead of duplicating this literal "&signature=" 5 times.(Úø¼ÿÿÿÿÿ
+f	php:S1192×"PDefine a constant instead of duplicating this literal "&extension_id=" 13 times.(–ı©³
+e	php:S1192O"PDefine a constant instead of duplicating this literal "&filter_member=" 8 times.(”å
+z	php:S1192ê"_Define a constant instead of duplicating this literal "Content-Type: application/json" 3 times.(ßË·şşÿÿÿÿ
+b	php:S1192W"HDefine a constant instead of duplicating this literal "&page=" 10 times.(óÑšÈüÿÿÿÿ
+\	php:S1192S"GDefine a constant instead of duplicating this literal "&sort=" 7 times.(á©ˆœ
+g	php:S1192^"MDefine a constant instead of duplicating this literal "user_token=" 37 times.(‹‹¦Ûıÿÿÿÿ
+e	php:S1192q"KDefine a constant instead of duplicating this literal "&username=" 5 times.(ÿö¾¬şÿÿÿÿ
+y	php:S1192ú"^Define a constant instead of duplicating this literal "marketplace/marketplace/reply" 4 times.(²şìëüÿÿÿÿ
+\	php:S1192t"GDefine a constant instead of duplicating this literal "&time=" 5 times.(Æ¤±
+g	php:S1192?"RDefine a constant instead of duplicating this literal "&filter_category=" 7 times.(ÂÔª¿
+k	php:S1192C"QDefine a constant instead of duplicating this literal "&filter_license=" 7 times.(Ÿ‰Šşÿÿÿÿ
+_	php:S1192s"JDefine a constant instead of duplicating this literal "&version=" 5 times.(ÈÜ’Œ
+^	php:S1192r"IDefine a constant instead of duplicating this literal "&domain=" 5 times.(ßš¸Ô
+e	php:S1192;"PDefine a constant instead of duplicating this literal "&filter_search=" 8 times.(Éƒâš
+s	php:S1192"YDefine a constant instead of duplicating this literal "marketplace/marketplace" 35 times.(šå¹”şÿÿÿÿ
+g	php:S1192°"LDefine a constant instead of duplicating this literal "&parent_id=" 7 times.(ĞÔÉ¾ûÿÿÿÿ
+e	php:S1192G"PDefine a constant instead of duplicating this literal "&filter_rating=" 7 times.(í¸°û
+G	php:S1481'"3Remove this unused "$filter_member" local variable.(İÊó~
+G	php:S1481¡",Remove this unused "$status" local variable.(„™—‰üÿÿÿÿ
+G	php:S1481£",Remove this unused "$status" local variable.(„™—‰üÿÿÿÿ
+R	php:S1155œ"7Use empty() to check whether the array is empty or not.(ıô¢Êşÿÿÿÿ
+V	php:S4830™"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+V	php:S4830›"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+V	php:S4830Õ"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+V	php:S4830×"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+V	php:S4830¶"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+V	php:S4830å"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+V	php:S4830±"@Enable server certificate validation on this SSL/TLS connection.(˜ş÷
+‰php:S138"uThis function "index" has 387 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Îò±ì
